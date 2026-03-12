@@ -93,15 +93,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 Não tem conta?
                 <a href="cadastro.php">Cadastre-se aqui</a>
             </div>
-
-            <!-- Credenciais de teste -->
-            <div style="margin-top:2rem; padding:1rem; background:var(--cor-fundo); border-radius:var(--radius-sm); font-size:0.78rem; color:var(--cor-texto-suave)">
-                <strong style="display:block;margin-bottom:0.5rem;color:var(--cor-texto)">👤 Usuários de teste:</strong>
-                <div>Admin: <code>admin@escola.com</code></div>
-                <div>Professor: <code>carlos@escola.com</code></div>
-                <div>Aluno: <code>ana@escola.com</code></div>
-                <div style="margin-top:0.3rem">Senha de todos: <code>password</code></div>
-            </div>
         </div>
     </div>
 </div>
